@@ -68,4 +68,12 @@ I’m currently exploring:
 Let’s build something that matters. Let’s code with intent. 💡
 
 ---
+## 📈 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=antrikakashyap&show_icons=true&theme=github_dark" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=antrikakashyap&theme=github-dark&hide_border=true" />
+</p>
+
+---
