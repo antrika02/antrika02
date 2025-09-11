@@ -25,13 +25,13 @@ I’m currently exploring:
 ## 🛠️ Tech Stack
 
 **Languages:**  
-`Java` | `JavaScript` | `C++`
+`Java` | `JavaScript` | `Python`
 
 **Web & Backend:**  
 `Node.js` |  `React` | `MongoDB` | `MySQL`
 
 **Tools & Platforms:**  
-`Git` | `GitHub` | `VS Code` |  `AWS (basic)` | `ESP32` | `IoT Systems`
+`Git` | `GitHub` | `VS Code` |  `AWS (basic)` 
 
 ---
 
@@ -48,7 +48,7 @@ I’m currently exploring:
 
 ## 🌱 Currently Working On
 
-- 🛣️ An **IoT-based Vehicle Fog Detection System** (ESP32 + GPS + sensors)
+- 🛣️ An AI powered mock interview platform
 - 🎯 Interview prep with a goal of securing a development role
 - 🔧 Deepening skills in **DSA**, **DBMS**, **System Design**, and **OS**
 
