@@ -1,46 +1,47 @@
 <h1 align="center">Hi there, I'm Antrika Kashyap 👋</h1>
 
 <p align="center">
-  💻 Aspiring Software Engineer | ⚙️ System Design Explorer | 🌍 Open Source for Social Good<br>
-  🎯 Focused on building tech that solves real-world problems and impacts communities
+  💻 Aspiring Software Engineer | ⚙️ Backend & System Design Explorer | 🌍 Open Source Contributor<br>
+  🎯 Building purposeful tech that solves real-world problems and impacts communities
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I’m a passionate developer who believes that **tech is most powerful when it’s purposeful**.  
-From facing multiple rejections to becoming a **Contributor at Social Summer of Code (SSoC)**, I’ve learned that **resilience writes the best code**.
+I’m a passionate developer who believes that **tech becomes powerful when it creates impact**.  
+From facing multiple rejections to becoming a **Contributor at Social Summer of Code (SSoC)**,  
+I’ve learned that **resilience writes the best code**.
 
-I’m currently exploring:
-- 🧠 Deep system design & backend development
-- 🛠️ Scalable real-world software architectures
-- 🌐 Impactful open-source contributions
-- 💬 Community-driven innovation
+I’m currently diving deep into:
+- 🧠 Backend engineering & scalable system design  
+- 🛠 Real-world software architectures  
+- 🌐 Open-source development with purpose  
+- 🤝 Community-driven innovation  
 
-> “Rejections taught me persistence. Open source taught me purpose.”
+> “Rejections taught me persistence. Open-source taught me purpose.”
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages:**  
-`Java` | `JavaScript` | `Python`
+### **Languages**
+`Java` · `JavaScript` · `Python`
 
-**Web & Backend:**  
-`Node.js` |  `React` | `MongoDB` | `MySQL`
+### **Web & Backend**
+`Spring Boot` · `Node.js` · `React` · `MySQL` · `MongoDB`
 
-**Tools & Platforms:**  
-`Git` | `GitHub` | `VS Code` |  `AWS (basic)` 
+### **Tools & Platforms**
+`Git` · `GitHub` · `VS Code` · `Postman` · `AWS (basic)`
 
 ---
 
 ## 🔥 Highlight: Social Summer of Code 2025 🚀
 
-🔸 **Contributor @ SSoC 2025**  
-🔸 Building for social impact through open-source  
-🔸 Turning rejections into results  
-🔸 Committed to making tech accessible, inclusive & meaningful
+- 🌟 **Contributor @ SSoC 2025**  
+- 💡 Building for social impact through open-source  
+- 🔁 Turning rejections into results  
+- 🌍 Aiming to make tech accessible, inclusive & meaningful  
 
 **#FromRejectionToRedemption #CodingForChange #SSoC2025**
 
@@ -48,23 +49,38 @@ I’m currently exploring:
 
 ## 🌱 Currently Working On
 
-- 🛣️ An AI powered mock interview platform
-- 🎯 Interview prep with a goal of securing a development role
-- 🔧 Deepening skills in **DSA**, **DBMS**, **System Design**, and **OS**
+- 🤖 An AI-powered mock interview platform  
+- 🎯 Interview prep focused on securing a development role  
+- 📚 Deep-diving into: **DSA**, **DBMS**, **OS**, **System Design**  
+- 💼 Strengthening backend fundamentals with Java & Spring Boot  
 
 ---
 
 ## 📌 Pinned Projects
 
-[🚧 Soon to be updated after SSoC contributions begin]
+🚧 *Will be updated as SSoC contributions progress… stay tuned!*
 
 ---
 
-## 🤝 Let’s Connect
+## 🔗 Find Me Online
 
-📫 Reach out to me on:  
-[LinkedIn]https://www.linkedin.com/in/antrika-kashyap-070502250?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+### 🌐 **Portfolio / Coding Profiles**
+- 🔵 **LinkedIn:**  
+  https://www.linkedin.com/in/antrika-kashyap-070502250  
 
-Let’s build something that matters. Let’s code with intent. 💡
+- 🟧 **LeetCode:**  
+  *Add your LeetCode profile link here*  
+
+- 🟩 **GeeksforGeeks:**  
+  *Add your GFG profile link here*  
+
+### 📫 Email  
+**antrikakashyap2@gmail.com**
 
 ---
+
+## 💡 Let's Connect & Build Together
+
+I love collaborating on impactful projects, backend systems, and open-source ideas.  
+Let’s build something that actually matters.  
+Let’s code with intent. 🌱✨
