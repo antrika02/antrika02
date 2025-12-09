@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Antrika Kashyap 👋</h1>
 
 <p align="center">
-  💻 Aspiring Software Engineer | ⚙️ Backend & System Design Explorer | 🌍 Open Source Contributor<br>
+  💻 Aspiring Software Engineer | ⚙️ Backend & System Design Explorer <br>
   🎯 Building purposeful tech that solves real-world problems and impacts communities
 </p>
 
@@ -9,8 +9,7 @@
 
 ## 🚀 About Me
 
-I’m a passionate developer who believes that **tech becomes powerful when it creates impact**.  
-From facing multiple rejections to becoming a **Contributor at Social Summer of Code (SSoC)**,  
+I’m a passionate developer who believes that **tech becomes powerful when it creates impact**.   
 I’ve learned that **resilience writes the best code**.
 
 I’m currently diving deep into:
@@ -32,20 +31,10 @@ I’m currently diving deep into:
 `Spring Boot` · `Node.js` · `React` · `MySQL` · `MongoDB`
 
 ### **Tools & Platforms**
-`Git` · `GitHub` · `VS Code` · `Postman` · `AWS (basic)`
+`Git` · `GitHub` · `VS Code` · `Postman` 
 
 ---
 
-## 🔥 Highlight: Social Summer of Code 2025 🚀
-
-- 🌟 **Contributor @ SSoC 2025**  
-- 💡 Building for social impact through open-source  
-- 🔁 Turning rejections into results  
-- 🌍 Aiming to make tech accessible, inclusive & meaningful  
-
-**#FromRejectionToRedemption #CodingForChange #SSoC2025**
-
----
 
 ## 🌱 Currently Working On
 
@@ -56,11 +45,7 @@ I’m currently diving deep into:
 
 ---
 
-## 📌 Pinned Projects
 
-🚧 *Will be updated as SSoC contributions progress… stay tuned!*
-
----
 
 ## 🔗 Find Me Online
 
@@ -69,10 +54,10 @@ I’m currently diving deep into:
   https://www.linkedin.com/in/antrika-kashyap-070502250  
 
 - 🟧 **LeetCode:**  
-  *Add your LeetCode profile link here*  
+https://leetcode.com/u/antrikakashyap2/
 
 - 🟩 **GeeksforGeeks:**  
-  *Add your GFG profile link here*  
+  https://www.geeksforgeeks.org/profile/antrika02
 
 ### 📫 Email  
 **antrikakashyap2@gmail.com**
