@@ -103,7 +103,7 @@ Building scalable backend systems and AI-powered applications.
 
 # 📌 Featured Projects
 
-## 🤖 AI Knowledge Base System
+## 🤖 AI Knowledge Base System (In progress)
 
 Multi-tenant RAG application powered by FastAPI, PostgreSQL, pgvector and LlamaIndex.
 
