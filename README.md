@@ -152,30 +152,6 @@ Python • Streamlit • Scikit-Learn
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=antrika02&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=antrika02&theme=tokyonight"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=antrika02&theme=tokyo-night)
-
----
-
-# 🏅 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=antrika02&theme=tokyonight&margin-w=10)
-
----
-
 # 🎯 2026 Goals
 
 ✅ Build Production AI Applications
