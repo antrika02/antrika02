@@ -1,71 +1,195 @@
-<h1 align="center">Hi there, I'm Antrika Kashyap 👋</h1>
+<h1 align="center">Hi 👋, I'm Antrika Kashyap</h1>
+
+<h3 align="center">
+Backend Engineer • AI Systems • FastAPI • Spring Boot • Java
+</h3>
 
 <p align="center">
-  💻 Aspiring Software Engineer | ⚙️ Backend & System Design Explorer <br>
-  🎯 Building purposeful tech that solves real-world problems and impacts communities
+Building scalable backend systems and AI-powered applications.
+</p>
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/antrika-kashyap-070502250">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:antrikakashyap2@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://leetcode.com/u/antrikakashyap2/">
+<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="https://codeforces.com/profile/antrika02">
+<img src="https://img.shields.io/badge/Codeforces-blue?style=for-the-badge"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/user/antrika02/">
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+<a href="https://www.codechef.com/users/antrika02">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
-## 🚀 About Me
+# 👩‍💻 About Me
 
-I’m a passionate developer who believes that **tech becomes powerful when it creates impact**.   
-I’ve learned that **resilience writes the best code**.
+🎓 2026 Grad — VIT Bhopal
 
-I’m currently diving deep into:
-- 🧠 Backend engineering & scalable system design  
-- 🛠 Real-world software architectures  
-- 🌐 Open-source development with purpose  
-- 🤝 Community-driven innovation  
+💼 Software Development Intern @ Bluestock Fintech
 
-> “Rejections taught me persistence. Open-source taught me purpose.”
+🚀 Passionate about
 
----
+- Backend Engineering
+- Distributed Systems
+- AI & LLM Applications
+- System Design
+- High Performance APIs
 
-## 🛠️ Tech Stack
+🌱 Currently Learning
 
-### **Languages**
-`Java` · `JavaScript` · `Python`
-
-### **Web & Backend**
-`Spring Boot` · `Node.js` · `React` · `MySQL` · `MongoDB`
-
-### **Tools & Platforms**
-`Git` · `GitHub` · `VS Code` · `Postman` 
+- FastAPI
+- Spring Boot
+- LLM Engineering
+- LangChain
+- LangGraph
+- AWS
 
 ---
 
+# 🚀 Tech Stack
 
-## 🌱 Currently Working On
+### Languages
 
-- 🤖 An AI-powered mock interview platform  
-- 🎯 Interview prep focused on securing a development role  
-- 📚 Deep-diving into: **DSA**, **DBMS**, **OS**, **System Design**  
-- 💼 Strengthening backend fundamentals with Java & Spring Boot  
+![Java](https://skillicons.dev/icons?i=java)
+![Python](https://skillicons.dev/icons?i=python)
+![js](https://skillicons.dev/icons?i=javascript)
+
 
 ---
 
+### Backend
 
-
-## 🔗 Find Me Online
-
-### 🌐 **Portfolio / Coding Profiles**
-- 🔵 **LinkedIn:**  
-  https://www.linkedin.com/in/antrika-kashyap-070502250  
-
-- 🟧 **LeetCode:**  
-https://leetcode.com/u/antrikakashyap2/
-
-- 🟩 **GeeksforGeeks:**  
-  https://www.geeksforgeeks.org/profile/antrika02
-
-### 📫 Email  
-**antrikakashyap2@gmail.com**
+![FastAPI](https://skillicons.dev/icons?i=fastapi)
+![Spring](https://skillicons.dev/icons?i=spring)
+![NodeJS](https://skillicons.dev/icons?i=nodejs)
+![Express](https://skillicons.dev/icons?i=express)
 
 ---
 
-## 💡 Let's Connect & Build Together
+### Databases
 
-I love collaborating on impactful projects, backend systems, and open-source ideas.  
-Let’s build something that actually matters.  
-Let’s code with intent. 🌱✨
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![Postgres](https://skillicons.dev/icons?i=postgres)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![Redis](https://skillicons.dev/icons?i=redis)
+
+---
+
+### Cloud & DevOps
+
+![Docker](https://skillicons.dev/icons?i=docker)
+![AWS](https://skillicons.dev/icons?i=aws)
+![Git](https://skillicons.dev/icons?i=git)
+![Github](https://skillicons.dev/icons?i=github)
+
+---
+
+# 📌 Featured Projects
+
+## 🤖 AI Knowledge Base System
+
+Multi-tenant RAG application powered by FastAPI, PostgreSQL, pgvector and LlamaIndex.
+
+**Tech**
+
+FastAPI • PostgreSQL • Docker • AWS • pgvector
+
+---
+
+## ⚡ Backend Service Platform
+
+Scalable REST APIs featuring authentication, caching, rate limiting and clean architecture.
+
+**Tech**
+
+Spring Boot • Redis • MySQL • Docker
+
+---
+
+## 🛒 CartFull
+
+Distributed e-commerce backend built with service-oriented architecture.
+
+**Tech**
+
+NodeJS • MongoDB • JWT • React
+
+---
+
+## 📄 AI Resume Screening Assistant
+
+Resume parser powered by NLP and Machine Learning.
+
+**Tech**
+
+Python • Streamlit • Scikit-Learn
+
+---
+
+# 🏆 Competitive Programming
+
+- 💻 1300+ Problems Solved
+- ⭐ CodeChef 3★
+- 🚀 Active on LeetCode
+- 📈 Regular Codeforces Contests
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=antrika02&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=antrika02&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=antrika02&theme=tokyo-night)
+
+---
+
+# 🏅 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=antrika02&theme=tokyonight&margin-w=10)
+
+---
+
+# 🎯 2026 Goals
+
+✅ Build Production AI Applications
+
+✅ Master System Design
+
+✅ Crack SDE Role at Top Product Company
+
+✅ Contribute to Open Source
+
+---
+
+<p align="center">
+
+⭐ Thanks for visiting my profile!
+
+</p>
