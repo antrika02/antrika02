@@ -160,32 +160,6 @@ Scalable Spring Boot backend implementing distributed caching, rate limiting, op
 
 ---
 
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats-one-bice.vercel.app/api?username=antrika02&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=antrika02&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Activity
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=antrika02&theme=tokyo-night&hide_border=true&area=true"/>
-
-</p>
-
----
-
 # 🌍 Open Source
 
 I'm actively building production-quality backend and AI systems while expanding my contributions to the open-source ecosystem.
