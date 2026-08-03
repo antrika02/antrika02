@@ -164,9 +164,7 @@ Scalable Spring Boot backend implementing distributed caching, rate limiting, op
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=antrika02&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antrika02&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats-one-bice.vercel.app/api?username=antrika02&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
 
 </p>
 
