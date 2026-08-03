@@ -166,14 +166,6 @@ I'm actively building production-quality backend and AI systems while expanding 
 
 ---
 
-# 💭 Development Philosophy
-
-> I enjoy building software that is scalable, maintainable, and production-ready.
->
-> My goal is not just to write code—but to understand the engineering decisions behind reliable backend systems, distributed architectures, and modern AI applications.
-
----
-
 # 🤝 Let's Connect
 
 I'm always open to discussions about:
