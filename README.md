@@ -1,193 +1,136 @@
-<h1 align="center">Hi 👋, I'm Antrika Kashyap</h1>
-
-<h3 align="center">
-Building production-grade backend systems and AI-powered applications.
-</h3>
+<h1 align="center">Antrika Kashyap</h1>
 
 <p align="center">
-Final-year Computer Science Student • Backend Engineering • AI Systems • Distributed Systems
+Backend & AI Systems Engineer · Computer Science, VIT Bhopal (2026)
 </p>
 
 <p align="center">
-
 <a href="https://www.linkedin.com/in/antrika-kashyap-070502250">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
-
 <a href="mailto:antrikakashyap2@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
-
 <a href="https://leetcode.com/u/antrikakashyap2/">
 <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
 </a>
-
 <a href="https://codeforces.com/profile/antrika02">
 <img src="https://img.shields.io/badge/Codeforces-blue?style=for-the-badge"/>
 </a>
-
-<a href="https://www.geeksforgeeks.org/user/antrika02/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-
 <a href="https://www.codechef.com/users/antrika02">
 <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
 </a>
-
 </p>
 
 ---
 
-# 👋 About Me
+## About
 
-I'm a final-year Computer Science student at **VIT Bhopal University** passionate about building **scalable backend systems**, **distributed applications**, and **AI-powered software**.
+I build backend services and the infrastructure around LLM applications — mostly
+in Python and Java, mostly with FastAPI and PostgreSQL.
 
-I enjoy designing production-ready APIs, architecting reliable backend services, and exploring modern AI engineering through **FastAPI**, **Spring Boot**, **LangGraph**, **Retrieval-Augmented Generation (RAG)**, and **LLM-powered applications**.
-
-Currently focused on writing clean, maintainable software while continuously improving my understanding of scalable system design.
-
----
-
-# 🚀 Current Focus
-
-- 🤖 Agentic AI & LangGraph
-- 📚 Retrieval-Augmented Generation (RAG)
-- ⚡ Backend Engineering
-- 🏗 Distributed Systems
-- ☁️ AWS & Cloud Infrastructure
-- 📈 System Design
+The thing I find most interesting right now is **when not to call a language
+model**. Most LLM systems route everything through the largest model available,
+which is slow, expensive, and impossible to reproduce. I'm more interested in
+systems that compute what they can deterministically, escalate only when they
+genuinely need to, and can explain every decision afterwards.
 
 ---
 
-# 💡 Engineering Interests
+## Currently building
 
-- Backend Engineering
-- AI Infrastructure
-- Distributed Systems
-- High Performance APIs
-- LLM Engineering
-- Developer Tools
-- Clean Architecture
+**gatekeep** — *in progress, no results yet*
 
----
+A library for confidence-gated cascade routing: run a cheap model first,
+escalate to an expensive one only when the cheap model is genuinely unsure.
 
-# ⚙️ Tech Stack
-
-### Languages
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-### Backend
-
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js)
-![REST API](https://img.shields.io/badge/REST-02569B?style=flat-square)
-
-### AI Engineering
-
-![LangGraph](https://img.shields.io/badge/LangGraph-black?style=flat-square)
-![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=flat-square)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-blue?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG-purple?style=flat-square)
-![Claude](https://img.shields.io/badge/Claude-black?style=flat-square)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square)
-
-### Databases
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb)
-![Qdrant](https://img.shields.io/badge/Qdrant-red?style=flat-square)
-![pgvector](https://img.shields.io/badge/pgvector-blue?style=flat-square)
-
-### DevOps
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws)
+The hard part isn't the cascade — it's that raw confidence scores are poorly
+calibrated, so a model reporting 90% confidence is often right far less than
+90% of the time. Gating on an uncalibrated score therefore leaves real money on
+the table. I'm calibrating the scores first and measuring what that's worth,
+with Pareto curves across accuracy, cost, and p95 latency, and confidence
+intervals on every number.
 
 ---
 
-# 🚀 Featured Projects
+## Projects
 
-## 💰 FinPilot AI
+### SentinelRoute
+*Python · scikit-learn · Whisper · EasyOCR · GPT-4.1-mini*
+[→ repository](https://github.com/antrika02/hackerrank-orchestrate-ai-router)
 
-Production-grade AI-powered finance platform featuring autonomous agents capable of answering natural-language financial queries over structured databases.
+A multimodal message router (text, images via OCR, voice via transcription) that
+classifies each incoming message as notify, digest, or mute.
 
-**Tech:** FastAPI • PostgreSQL • LangGraph • Claude • Gemini
+The design decision worth talking about: **the language model is deliberately
+kept out of the primary decision path.** Trust, history, repetition, and timing
+are computed in code rather than asked of a model, security screening runs
+*before* personalization so a trusted sender can't earn leniency on a scam, and
+an LLM reviewer is consulted only for the genuinely ambiguous minority. The
+whole pipeline runs offline and deterministically with the reviewer switched
+off, which is what makes offline evaluation meaningful.
 
----
+Every prediction carries a full decision trace, so any routing decision can be
+audited after the fact.
 
-## 📚 AI Documentation Assistant
+### AI Documentation Assistant
+*FastAPI · Qdrant · FastEmbed · Gemini · Streamlit*
 
-A multi-agent Retrieval-Augmented Generation (RAG) platform that crawls technical documentation, indexes knowledge into vector databases, and delivers source-cited responses.
+A two-stage RAG pipeline that crawls technical documentation, embeds and indexes
+it, and answers questions with source citations and confidence scores.
+Conversation memory uses a sliding context window so follow-up questions keep
+their context. Deployed on Render.
 
-**Tech:** FastAPI • Qdrant • FastEmbed • Gemini • Streamlit
+### FinPilot AI
+*FastAPI · PostgreSQL · SQLAlchemy · Alembic · LangGraph*
 
----
+A personal finance backend built on a layered architecture — router → service →
+repository — with JWT auth, Argon2 password hashing, Pydantic v2 validation,
+Alembic migrations, and ownership checks enforced in the service layer.
 
-## 🏆 SentinelRoute
+A LangGraph agent for natural-language financial queries is in development;
+it selects tools, queries through the repository layer, and traces its reasoning
+via Langfuse. No automated test suite yet — that's the next priority.
 
-AI-powered multi-modal message automation platform built during the HackerRank Orchestrate Hackathon.
+### Backend Service Platform
+*Spring Boot · Redis · MySQL · Docker*
 
-Supports text, OCR images, and voice messages with deterministic routing and LLM-assisted fallback reasoning.
-
-**Tech:** Python • TF-IDF • Whisper • EasyOCR
-
----
-
-## ⚡ Backend Service Platform
-
-Scalable Spring Boot backend implementing distributed caching, rate limiting, optimized database access, and production-inspired architecture.
-
-**Tech:** Spring Boot • Redis • MySQL • Docker
-
----
-
-# 🏆 Competitive Programming
-
-- 💻 Solved **1,400+** coding problems across LeetCode, GeeksforGeeks, CodeChef & Codeforces
-- ⭐ **LeetCode Rating:** **1610** *(Top 22.76% Globally)*
-- 🥇 **Top 10** — GeeksforGeeks Institute Leaderboard
-- 🍫 **CodeChef 3★**
-- ☕ Regular Contest Participant
-
----
-
-# 🌍 Open Source
-
-I'm actively building production-quality backend and AI systems while expanding my contributions to the open-source ecosystem.
+REST services with authentication, caching, and rate limiting, structured around
+a clean separation between web, service, and data layers.
 
 ---
 
-# 🤝 Let's Connect
+## Experience
 
-I'm always open to discussions about:
+**Software Development Intern** · Bluestock Fintech · May–Jul 2025 · Remote
 
-- Backend Engineering
-- Distributed Systems
-- AI Engineering
-- System Design
-- Open Source
+Backend work on a financial analytics platform: SQL query optimisation, API
+performance, and debugging production issues. Automated the deployment pipeline
+with GitHub Actions, cutting deploy time from 45 minutes to 5.
 
-Feel free to connect with me on **LinkedIn** or reach out via **email**.
+---
+
+## Competitive programming
+
+- **LeetCode contest rating 1610** — top 22.76% globally
+- **Top 10**, GeeksforGeeks institute leaderboard, VIT Bhopal
+- **CodeChef 3★**
+- 1,400+ problems solved across LeetCode, GeeksforGeeks, CodeChef and Codeforces
+- Regular Codeforces contest participant
+
+---
+
+## Tools
+
+**Languages** — Python, Java, SQL, JavaScript
+**Backend** — FastAPI, Spring Boot, Node.js, SQLAlchemy, Pydantic
+**Data** — PostgreSQL, MySQL, Redis, MongoDB, Qdrant, pgvector
+**AI** — LangGraph, LangChain, Langfuse, RAG, Claude / OpenAI / Gemini APIs
+**Infra** — Docker, GitHub Actions, Git, Linux, AWS
 
 ---
 
 <p align="center">
-
-⭐ If you like my work, consider following my journey!
-
-</p>
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=antrika02&label=Profile%20Views&color=0e75b6&style=flat"/>
-
+Happy to talk about backend systems, LLM infrastructure, or anything involving
+measuring things that people usually guess at.
 </p>
