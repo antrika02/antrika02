@@ -2,7 +2,7 @@
 
 <p align="center">
 <b>Backend & AI Systems Engineer</b><br/>
-B.Tech Computer Science · VIT Bhopal · 2026 · CGPA 8.4
+B.Tech Computer Science · VIT Bhopal · 2026
 </p>
 
 <p align="center">
@@ -14,7 +14,6 @@ B.Tech Computer Science · VIT Bhopal · 2026 · CGPA 8.4
 <p align="center">
 <img src="https://img.shields.io/badge/LeetCode-1758_rating-orange?style=flat-square&logo=leetcode"/>
 <img src="https://img.shields.io/badge/CodeChef-4★_1852-5B4638?style=flat-square&logo=codechef&logoColor=white"/>
-<img src="https://img.shields.io/badge/Codeforces-Pupil-blue?style=flat-square"/>
 <img src="https://img.shields.io/badge/1,487-problems_solved-brightgreen?style=flat-square"/>
 </p>
 
