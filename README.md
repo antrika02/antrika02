@@ -8,6 +8,7 @@ B.Tech Computer Science · VIT Bhopal · 2026
 <p align="center">
 <a href="https://antrika-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/></a>
 <a href="https://www.linkedin.com/in/antrika-kashyap-070502250"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/></a>
+<a href="https://rozgarjobs.in"><img src="https://img.shields.io/badge/Rozgar-Fresher_Jobs-16a34a?style=for-the-badge"/></a>
 <a href="mailto:antrikakashyap2@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/></a>
 </p>
 
@@ -28,10 +29,31 @@ I like systems that stay correct under load, and that only call an AI model when
 
 ---
 
+## 🌱 Rozgar: a job portal made only for freshers
+
+**[rozgarjobs.in](https://rozgarjobs.in)** is a job portal I'm building with a friend (a two-person team) for people who are just starting their careers.
+
+**The problem:** most job sites mix fresher roles with roles that need years of experience, so freshers waste time scrolling past jobs they can't apply for. Rozgar shows only the jobs freshers can actually apply for.
+
+**What it does today**
+- 🎯 **Fresher-only listings**: every job is meant for freshers and early-career people
+- 🇮🇳 **PAN-India coverage**: roles from cities across India, mostly in tech
+- 🤝 **Employee and referral contacts**: for many listings we add a real person's contact details, so freshers can reach out for a referral. We add these by hand for now
+
+**Where it's going (next 3 months)**
+- 📈 More users
+- 💰 First revenue
+- ✨ A better product
+
+**Find Rozgar online:** [Website](https://rozgarjobs.in) · [LinkedIn](https://www.linkedin.com/company/rozgarjobs) · Instagram (just launched)
+
+---
+
 ## 🛠️ Projects
 
 | Project | What it does | Highlight |
 |---|---|---|
+| [**Rozgar**](https://rozgarjobs.in)<br/>`Live product` | Fresher-only job portal for all of India, with referral contacts | Built with a friend · growing it toward more users and first revenue |
 | [**Smart Order Processing**](https://github.com/antrika02/Smart_Order_Processing_Platform)<br/>`Java · Spring Boot · MySQL · Redis` | Order backend built for many buyers at once | **0 oversold** in a test of 100 orders vs 100 units · 30 tests, 85% coverage |
 | [**FinPilot AI**](https://github.com/antrika02/finance_assistant)<br/>`FastAPI · PostgreSQL · LangGraph` | Personal finance backend + AI agent that answers money questions | 30+ endpoints · 128 tests, 91% coverage · deployed on AWS EC2 |
 | [**SentinelRoute**](https://github.com/antrika02/hackerrank-orchestrate-ai-router)<br/>`Python · scikit-learn · Whisper` | Routes text, image and voice messages: notify, digest or mute | Built for HackerRank Orchestrate · AI kept out of the main decision path, so every result is explainable |
@@ -51,11 +73,12 @@ I like systems that stay correct under load, and that only call an AI model when
 
 ## 🔨 Currently
 
+- 🌱 Growing **[Rozgar](https://rozgarjobs.in)**: adding more fresher jobs, more referral contacts, and new features
 - **gatekeep**: a library that runs a cheap AI model first and calls an expensive one only when the cheap one is unsure *(in progress)*
 - Studying for **Microsoft Azure Fundamentals (AZ-900)** *(in progress)*
 
 ---
 
 <p align="center">
-📫 <a href="mailto:antrikakashyap2@gmail.com">antrikakashyap2@gmail.com</a> · 🌐 <a href="https://antrika-portfolio.vercel.app">antrika-portfolio.vercel.app</a>
+📫 <a href="mailto:antrikakashyap2@gmail.com">antrikakashyap2@gmail.com</a> · 🌐 <a href="https://antrika-portfolio.vercel.app">antrika-portfolio.vercel.app</a> · 🌱 <a href="https://rozgarjobs.in">rozgarjobs.in</a>
 </p>
